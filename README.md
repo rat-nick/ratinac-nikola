@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ratinac-nikola
-- 👀 I’m interested in data science and machine learining
-- 🌱 I’m currently learning R and cloudd computing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science, machine learining and ML Ops
+- 🌱 I’m currently learning R, docker, kubernetes and zookeeper
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
