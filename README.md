@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ratinac-nikola
 - 👀 I’m interested in data science, machine learining and ML Ops
-- 🌱 I’m currently learning R, docker, kubernetes and zookeeper
+- 🌱 I’m currently learning R, docker, kubernetes, zookeeper and AWS
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
